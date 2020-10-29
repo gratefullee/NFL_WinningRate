@@ -38,5 +38,5 @@ Average Yards Per Punt Return: 0.014572
 ![PartialRegression](/img/PartialRegression.png)
 
 Since the graph is not intuitively understandable, I decided to make a 3D graph with factors with the two highest rates.
-
+.
 ![3DPartialR](/img/3DPartialR.png)
