@@ -15,7 +15,13 @@ This project is based on multiple datasets showing --
 
 # Background Information
 Each team has a winning rate ever since the team was founded. The team with the highest winning rate is Dallas Cowboys -- 0.571, and the lowest rate is Tampay Bay Bunccaneers -- 0.389. 
-![WinningRate](/img/NFL_WinningRate.png)
+
+You can also check the rest of the teams below.
+[NFL Rate.ipynb](https://github.com/gratefullee/NFL_WinningRate/blob/main/img/NFL_WinningRate.png)
+
+By Conference:
+[AFC Rate.ipynb](https://github.com/gratefullee/NFL_WinningRate/blob/main/img/AFC_WinningRate.png)
+[NFC Rate.ipynb](https://github.com/gratefullee/NFL_WinningRate/blob/main/img/NFC_WinningRate.png)
 
 # Data Analysis
 Very first moment thinking about the winning rate, I expected players' PT records to have a huge import on winning rates. However, once I found the correlations between their PT records and teams' winning rates.
@@ -38,7 +44,7 @@ Average Yards Per Punt Return: 0.014572
 
 
 
-Since the graph is not intuitively understandable, I decided to make a 3D graph with factors with the two highest rates.
+Since the graph is less intuitive, I decided to make a 3D graph with factors with the two highest rates.
 .
 ![3DPartialR](/img/3DPartialR.png)
 
