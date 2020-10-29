@@ -7,7 +7,6 @@ When I was at college in Texas, I went to see so many football games. At first I
 Football is another industry by itself. People would like to pay up to $25,000 just for a seat. And NFL teams would like to pay enormous money every year to recruit the best football player. Above all things, what they care about is who is going to win the trophy. In this project, I would like to answer what NFL teams can do to increase their winning rates.
 
 # Data Sources
-
 This project is based on multiple datasets showing -- 
 1) all-time teams' winning rates
 2) players PT records
@@ -15,13 +14,12 @@ This project is based on multiple datasets showing --
 
 
 # Background Information
-
 Each team has a winning rate ever since the team was founded. The team with the highest winning rate is Dallas Cowboys -- 0.571, and the lowest rate is Tampay Bay Bunccaneers -- 0.389. 
 ![WinningRate](/img/NFL_WinningRate.png)
 
-#
-
+# Data Analysis
 Very first moment thinking about the winning rate, I expected players' PT records to have a huge import on winning rates. However, once I found the correlations between their PT records and teams' winning rates, it was quite disappointing. 
-
 ![correlations](/img/PTCorr.png)
 
+While I was analyzing the catching rate for Dallas Cowboys and Tampa Bay Bucs, I made a conclusion that players catching rates can have a high impact on overall team's winning rate. Unfortunately though, catching rate was not recorded until 1992. So I couldn't utilize catching rates to predict the winning rate. 
+![catchingrate](/img/bootstrap.png)
