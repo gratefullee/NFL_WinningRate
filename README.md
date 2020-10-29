@@ -1,6 +1,6 @@
 # Factors Affecting NFL Teams' Winning Rates
 
-![Football](/img/NFLball.jpg)
+![Football](/img/football.jpeg)
 
 When I was at college in Texas, I went to see so many football games. At first I really didn't understand why Texans LOVE football. But after a couple years, I found myself enjoying football games with them. I believe it is more than just a game for a lot of people. We go to see their friends or family during the Superobowl. Football is another Thanksgiving or Christmas. I am not an expert on football yet, but it is always one of my interests.
 
