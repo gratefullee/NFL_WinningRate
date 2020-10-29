@@ -25,6 +25,7 @@ Or by Conference:
 
 
 [AFC Rate.ipynb](https://github.com/gratefullee/NFL_WinningRate/blob/main/img/AFC_WinningRate.png)
+
 [NFC Rate.ipynb](https://github.com/gratefullee/NFL_WinningRate/blob/main/img/NFC_WinningRate.png)
 
 # Data Analysis
