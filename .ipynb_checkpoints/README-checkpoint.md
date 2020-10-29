@@ -17,9 +17,7 @@ This project is based on multiple datasets showing --
 # Background Information
 
 Each team has a winning rate ever since the team was founded. The team with the highest winning rate is Dallas Cowboys -- 0.571, and the lowest rate is Tampay Bay Bunccaneers -- 0.389. 
-
-![AFC](/img/AFC_WinningRate.png)
-![NFC](/img/NFC_WinningRate.png)
+![WinningRate](/img/NFL_WinningRate.png)
 
 #
 
