@@ -28,15 +28,18 @@ I wanted to furthur analyze other factors affecting the winning rates. I found o
 ![factors](/img/SingleFeature.png)
 
 But which one has a higher impact on another?
-While I returned a partial regression on those three factors together, I made a conclusion that the number of fumbles lost and average yards from each punt is more significant than completion rate. This is based on the partial regression rate; 
+While I returned a partial regression on those three factors together, I made a conclusion that the number of fumbles lost and average yards from each punt is more significant than completion rate. This conclusion is based on the partial regression rate; 
 
 Average Completion Percentage: 0.005176
-
 Average Number of Fumbles Lost: -0.177058
-
 Average Yards Per Punt Return: 0.014572
+
 ![PartialRegression](/img/PartialRegression.png)
+
+
 
 Since the graph is not intuitively understandable, I decided to make a 3D graph with factors with the two highest rates.
 .
 ![3DPartialR](/img/3DPartialR.png)
+
+
