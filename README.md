@@ -18,8 +18,18 @@ Each team has a winning rate ever since the team was founded. The team with the 
 ![WinningRate](/img/NFL_WinningRate.png)
 
 # Data Analysis
-Very first moment thinking about the winning rate, I expected players' PT records to have a huge import on winning rates. However, once I found the correlations between their PT records and teams' winning rates, it was quite disappointing. 
+Very first moment thinking about the winning rate, I expected players' PT records to have a huge import on winning rates. However, once I found the correlations between their PT records and teams' winning rates.
 ![correlations](/img/PTCorr.png)
 
 While I was analyzing the catching rate for Dallas Cowboys and Tampa Bay Bucs, I made a conclusion that players catching rates can have a high impact on overall team's winning rate. Unfortunately though, catching rate was not recorded until 1992. So I couldn't utilize catching rates to predict the winning rate. 
 ![catchingrate](/img/bootstrap.png)
+
+I wanted to furthur analyze other factors affecting the winning rates. I found out that completion rate, punt, and fumbles can lead the team to a win or loss. 
+![factors](/img/SingleFeature.png)
+
+But which one has a higher impact on another?
+While I returned a partial regression on those three factors together, I made a conclusion that the number of fumbles lost and average yards from each punt is more significant than completion rate.
+![PartialRegression](/img/PartialRegression.png)
+Average Completion Percentage: 0.005176
+Average Number of Fumbles Lost: -0.177058
+Average Yards Per Punt Return: 0.014572
