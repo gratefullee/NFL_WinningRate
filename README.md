@@ -53,10 +53,4 @@ Based on the rate, the completion rate has the least impact.
 Below is a 3D graph without the completion rate. 
 ![3DPartialR](/img/3DPartialR.png)
 
-x-axis: # of fumbles
-
-y-axis: Yards per punt return
-
-z-axis: Winning Rate
-
 
