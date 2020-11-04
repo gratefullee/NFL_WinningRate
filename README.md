@@ -6,12 +6,16 @@ American football is another industry by itself. According to the American Gamin
 
 Each team has a winning rate ever since the team was founded. The team with the highest winning rate is Dallas Cowboys -- 0.571, and the lowest rate is Tampay Bay Bunccaneers -- 0.389. 
 
-You can also check the rest of the teams below.
+
+![lowhigh](/img/lowhigh.png)
+
+
+You can also check the NFL teams by their wiining rates below.
 
 
 [NFL Rate.ipynb](https://github.com/gratefullee/NFL_WinningRate/blob/main/img/NFL_WinningRate.png)
 
-Or by Conference:
+Or winning rates by conference:
 
 
 [AFC Rate.ipynb](https://github.com/gratefullee/NFL_WinningRate/blob/main/img/AFC_WinningRate.png)
