@@ -26,7 +26,7 @@ This project is based on multiple datasets showing --
 3) all-time each players' stats (punt, fumbles, etc.)
 
 
-# Data Analysis
+## Data Analysis
 
 1. There is no correaltions between teams' winning rates and players' physical scores. 
 
