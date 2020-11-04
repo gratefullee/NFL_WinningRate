@@ -38,15 +38,21 @@ This project is based on multiple datasets showing --
 ![PartialRegression](/img/PartialRegression.png)
 
 Partial regression rate for each factor: 
+
 Average Completion Percentage: 0.005176
+
 Average Number of Fumbles Lost: -0.177058
+
 Average Yards Per Punt Return: 0.014572
 
 Based on the rate, the completion rate has the least impact. 
 Below is a 3D graph without the completion rate. 
 ![3DPartialR](/img/3DPartialR.png)
+
 x-axis: # of fumbles
+
 y-axis: Yards per punt return
+
 z-axis: Winning Rate
 
 
