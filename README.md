@@ -10,7 +10,7 @@ Each team has a winning rate ever since the team was founded. The team with the 
 ![lowhigh](/img/lowhigh.png)
 
 
-You can also check the NFL teams by their wining rates below.
+You can also check the NFL teams ranked by their wining rates below.
 
 
 [NFL Rate.ipynb](https://github.com/gratefullee/NFL_WinningRate/blob/main/img/NFL_WinningRate.png)
