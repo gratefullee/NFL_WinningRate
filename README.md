@@ -54,3 +54,7 @@ Below is a 3D graph without the completion rate.
 ![3DPartialR](/img/3DPartialR.png)
 
 
+## Conclusions
+
+1. Players' physical scores does not affect teams' winning rates. 
+2. Completion rates, the number of fumbles lost, and yards per punt can highly decide teams' winning rates. 
