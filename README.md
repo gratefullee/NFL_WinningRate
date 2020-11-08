@@ -25,9 +25,9 @@ Or winning rates by conference:
 
 ## Data Sources
 This project is based on multiple datasets showing -- 
-1) all-time teams' winning rates
-2) players PT records
-3) all-time each players' stats (punt, fumbles, etc.)
+1) all-time teams' winning rates: https://www.pro-football-reference.com/teams/
+2) players PT records: https://stathead.com/football/nfl-combine-results.cgi
+3) all-time each players' stats (punt, fumbles, etc.): https://www.kaggle.com/tobycrabtree/nfl-scores-and-betting-data
 
 
 ## Data Analysis
